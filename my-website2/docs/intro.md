@@ -1,47 +1,46 @@
 ---
 sidebar_position: 1
----
+--- 
 
-# Tutorial Intro
+# Introducción
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Cada proyecto y/o iniciativa generada en la compañia de LSV TECH, se deberan planificar cumpliendo con los parametros de los procedimientos de **Realización de proyectos e Innovación.**
 
-## Getting Started
+## Estructura por tipología de proyectos
 
-Get started by **creating a new site**.
+:::note Requerimientos (1-4 semanas)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- ✔️ Business Case.
+- ❌ Plan de proyecto PMI.
+- ❌ Plan de comunicaciones.
+- ✔️ Cronograma.
+- ✔️ Matriz de riesgos.
+- ✔️ Jira Board.
 
-### What you'll need
+:::
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+:::note Plan de mejoramiento (4-12 semanas)
 
-## Generate a new site
+- ✔️ Business Case.
+- ❌ Plan de proyecto PMI.
+- ✔️ Plan de comunicaciones.
+- ✔️ Cronograma.
+- ✔️ Matriz de riesgos.
+- ✔️ Jira Board.
 
-Generate a new Docusaurus site using the **classic template**.
+:::
 
-The classic template will automatically be added to your project after you run the command:
+:::note Proyecto (Superior a 12 semanas)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- ✔️ Business Case.
+- ✔️ [Plan de proyecto PMI.](#procesos-de-dirección-de-proyectos-pmbok)
+- ✔️ Plan de comunicaciones.
+- ✔️ Cronograma.
+- ✔️ Matriz de riesgos.
+- ✔️ Jira Board.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+:::
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Procesos de dirección de proyectos PMBOK
+![Procesos PMI](tutorial-extras/img/processProject.jpg)
+(https://drive.google.com/file/d/1csk1lKfsvmGwpcvo6MQvd9KnNxwSjTSG/view?usp=sharing)
